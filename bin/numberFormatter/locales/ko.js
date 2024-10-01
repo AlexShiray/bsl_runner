@@ -1,0 +1,1 @@
+exports.locale = require("./ko_KR.js").locale;

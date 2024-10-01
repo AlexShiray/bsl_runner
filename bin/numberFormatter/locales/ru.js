@@ -1,0 +1,1 @@
+exports.locale = require("./ru_RU.js").locale;

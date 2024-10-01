@@ -1,0 +1,1 @@
+exports.locale = require("./mr_IN.js").locale;

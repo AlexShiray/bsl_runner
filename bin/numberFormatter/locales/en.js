@@ -1,0 +1,1 @@
+exports.locale = require("./en_US.js").locale;

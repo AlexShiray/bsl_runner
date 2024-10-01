@@ -1,0 +1,1 @@
+exports.locale = require("./kk_KZ.js").locale;

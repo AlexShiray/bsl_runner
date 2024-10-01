@@ -1,0 +1,16 @@
+{
+	"name": "bsl_runner",
+	"main": "./bin/bsl-cli.js",
+	"bin": {
+		"bsl-cli": "./bin/bsl-cli.js"
+	},
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "bignumber.js": "^9.1.2",
+    "express": "^4.19.2",
+    "mariadb": "^3.3.1",
+    "node-telegram-bot-api": "^0.63.0",
+    "promised-sqlite3": "^2.1.0",
+    "uuid": "^10.0.0"
+  }
+}
